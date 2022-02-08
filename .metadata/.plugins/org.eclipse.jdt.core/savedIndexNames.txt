@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\gabri\Documents\ws-eclipse\Projeto_Grande_01\Proj_Curso_Xadres_Completo\.metadata\.plugins\org.eclipse.jdt.core
-4142655603.index
-1865797976.index
-1465490578.index
